@@ -1,2 +1,2 @@
-from ubuntu
-run apt-get updates
+from python
+pip install mysql
